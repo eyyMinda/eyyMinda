@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![](https://i.gifer.com/F7E.gif)
+![](https://i.giphy.com/media/26tnahvHbOf16adJS/giphy.webp)
 
 <!--
 **eyyMinda/eyyMinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
