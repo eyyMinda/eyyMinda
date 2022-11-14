@@ -34,6 +34,6 @@
 
 ### 🤙 Social
 
-[<a href="https://www.facebook.com/RE.Mindau"><img align="left" alt="Facebook" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />](a 'FaceBook')
-[<a href="https://www.linkedin.com/in/eyyminda/"><img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](a 'LinkedIn')
+<a href="https://www.facebook.com/RE.Mindau">[<img align="left" alt="Facebook" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />](a 'FaceBook')</a>
+<a href="https://www.linkedin.com/in/eyyminda/">[<img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](a 'LinkedIn')</a>
 
