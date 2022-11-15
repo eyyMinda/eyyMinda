@@ -30,6 +30,8 @@
 
 ![eyyMinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyyMinda&show_icons=true&theme=highcontrast&count_private=true)
 
+<!-- ![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eyyMinda&range=all_time&hide_title=true&layout=compact&langs_count=10&theme=onedark&border_color=2f373d) -->
+
 #
 
 ### 🤙 Social
