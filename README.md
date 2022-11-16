@@ -33,7 +33,7 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<!-- ![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eyyMinda&range=all_time&hide_title=true&layout=compact&langs_count=10&theme=onedark&border_color=2f373d) -->
+![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eyyMinda&range=all_time&hide_title=true&layout=compact&langs_count=10&theme=onedark&border_color=2f373d)
 
 #
 
