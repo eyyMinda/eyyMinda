@@ -31,6 +31,16 @@
 ![eyyMinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyyMinda&show_icons=true&theme=highcontrast&count_private=true)
 
 <!--START_SECTION:waka-->
+
+```text
+TypeScript   2 hrs 42 mins   ███████████████████████▒░   93.41 %
+JavaScript   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+```
+
 <!--END_SECTION:waka-->
 
 <!-- ![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eyyminda&range=all_time&hide_title=true&layout=compact&langs_count=10&theme=onedark&border_color=2f373d) -->
