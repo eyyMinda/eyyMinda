@@ -34,6 +34,8 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img align="left" alt="TailWindCSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></a>
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></a>
+
+<!-- <a href="https://shopify.github.io/liquid/" target="_blank" rel="noreferrer"><img align="left" alt="Liquid" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify-liquid/liquid-plain.svg" /></a> -->
 <br/>
 
 #
