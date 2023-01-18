@@ -1,6 +1,6 @@
 ![](https://i.giphy.com/media/26tnahvHbOf16adJS/giphy.webp)
 
-# 🐱‍👤 eyyMinda
+# 🐱‍👤 [eyyMinda](https://eyyminda.vercel.app/)
 
 **`Junior Front-End Developer`**
 
