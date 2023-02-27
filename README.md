@@ -1,13 +1,12 @@
 ![](https://i.giphy.com/media/26tnahvHbOf16adJS/giphy.webp)
 
 # 🐱‍👤 [eyyMinda](https://eyyminda.vercel.app/)
-
+  
 **`Junior Front-End Developer`**
 
 ---
 
 ### 🧰 Languages and Tools
-
 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
 
@@ -36,7 +35,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></a>
 
 <a href="https://shopify.github.io/liquid/" target="_blank" rel="noreferrer"><img align="left" alt="Shopify" width="40px" style="padding-right:10px;" src="https://img.icons8.com/color/48/null/shopify.png" /></a>
-<br/>
+</br>
 
 #
 
@@ -45,9 +44,8 @@
 ![eyyMinda's GitHub stats](https://tinyone-readme-stats.vercel.app/api?username=eyyMinda&show_icons=true&hide_title=true&theme=ocean_dark&count_private=true&border_color=b0a0cc)
 ![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eyyminda&range=all_time&hide_title=false&layout=compact&langs_count=10&theme=ocean_dark&border_color=b0a0cc)
 
-![](https://komarev.com/ghpvc/?username=eyyMinda&color=blueviolet&style=for-the-badge&label=Stalkers+Count)
-
-#
+![Stalkers Count](https://komarev.com/ghpvc/?username=eyyMinda&color=blueviolet&style=for-the-badge&label=Stalkers+Count)
+---
 
 ### 🤙 Social
 
