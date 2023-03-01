@@ -53,9 +53,9 @@
 
 | Programming Games | Hiring Tasks | Challenges |
 | :--- | :--- | :--- |
-| <a href="https://github.com/eyyMinda/BitBurner"><img align="left" alt="BitBurner" width="20px" src="https://imgur.com/NQ4rFoa.png" />**BitBurner**</a><br/>`Netscript` | <a href="https://github.com/eyyMinda/ratepunk-task-fe">**RatePunk**</a><br/>`React, NextJs, SCSS` | <a href="https://github.com/eyyMinda/AdventOfCode"><img align="left" alt="AdventOfCode" width="20px" src="https://imgur.com/ngYjHxt.png" />**AdventOfCode**</a><br/>`Javascript, NodeJs`  |
-| <a href="https://github.com/eyyMinda/ComputerCraftSolo"><img align="left" alt="ComputerCraft" width="20px" src="https://i.imgur.com/vV8aNRx.png" />**ComputerCraft**</a><br/>`Lua` | <a href="https://github.com/eyyMinda/kandy-task-fe">**Kandy**</a><br/>`HTML, CSS, JS` |  |
-| <a href="https://github.com/eyyMinda/FarmerReplaced"><img align="left" alt="FarmerReplaced" width="20px" src="https://imgur.com/41up72N.png" />**FarmerReplaced**</a><br/>`Python` |  |  |
+| <a href="https://github.com/eyyMinda/BitBurner"><img align="left" alt="BitBurner" width="20px" src="https://imgur.com/NQ4rFoa.png" />**BitBurner**</a><br/><sub>`Netscript`</sub> | <a href="https://github.com/eyyMinda/ratepunk-task-fe">**RatePunk**</a><br/><sub>`React, NextJs, SCSS`</sub> | <a href="https://github.com/eyyMinda/AdventOfCode"><img align="left" alt="AdventOfCode" width="20px" src="https://imgur.com/ngYjHxt.png" />**AdventOfCode**</a><br/><sub>`Javascript, NodeJs`</sub>  |
+| <a href="https://github.com/eyyMinda/ComputerCraftSolo"><img align="left" alt="ComputerCraft" width="20px" src="https://i.imgur.com/vV8aNRx.png" />**ComputerCraft**</a><br/><sub>`Lua`</sub> | <a href="https://github.com/eyyMinda/kandy-task-fe">**Kandy**</a><br/><sub>`HTML, CSS, JS`</sub> |  |
+| <a href="https://github.com/eyyMinda/FarmerReplaced"><img align="left" alt="FarmerReplaced" width="20px" src="https://imgur.com/41up72N.png" />**FarmerReplaced**</a><br/><sub>`Python`</sub> |  |  |
 
 
 ### 🤙 Social
