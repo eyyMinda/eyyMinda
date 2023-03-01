@@ -51,7 +51,7 @@
 
 
 
-| Programming Games | Hiring Tasks | Events |
+| Programming Games | Hiring Tasks | Challenges |
 | :--- | :--- | :--- |
 | <a href="https://github.com/eyyMinda/BitBurner"><img align="left" alt="BitBurner" width="20px" src="https://imgur.com/NQ4rFoa.png" />**BitBurner**</a><br/><br/><blockquote>`Netscript`</blockquote> | <a href="https://github.com/eyyMinda/ratepunk-task-fe">**RatePunk**</a><br/><br/> <blockquote>`React, NextJs, SCSS`</blockquote> | <a href="https://github.com/eyyMinda/AdventOfCode"><img align="left" alt="AdventOfCode" width="20px" src="https://imgur.com/ngYjHxt.png" />**AdventOfCode**</a><br/><br/> <blockquote>`Javascript, NodeJs`</blockquote>  |
 | <a href="https://github.com/eyyMinda/ComputerCraftSolo"><img align="left" alt="ComputerCraft" width="20px" src="https://i.imgur.com/vV8aNRx.png" />**ComputerCraft**</a><br/><br/> <blockquote>`Lua`</blockquote> | <a href="https://github.com/eyyMinda/kandy-task-fe">**Kandy**</a><br/><br/> <blockquote>`HTML, CSS, JS`</blockquote> |  |
