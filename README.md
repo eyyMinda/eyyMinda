@@ -47,6 +47,17 @@
 ![Stalkers Count](https://komarev.com/ghpvc/?username=eyyMinda&color=blueviolet&style=for-the-badge&label=Stalkers+Count)
 ---
 
+### 📚 Repositories
+
+
+
+| Programming Games | Hiring Tasks | Events |
+| :--- | :--- | :--- |
+| <a href="https://github.com/eyyMinda/BitBurner"><img align="left" alt="BitBurner" width="20px" src="https://imgur.com/NQ4rFoa.png" />**BitBurner**</a><br/><br/><blockquote>`Netscript`</blockquote> | <a href="https://github.com/eyyMinda/ratepunk-task-fe">**RatePunk**</a><br/><br/> <blockquote>`React, NextJs, SCSS`</blockquote> | <a href="https://github.com/eyyMinda/AdventOfCode"><img align="left" alt="AdventOfCode" width="20px" src="https://imgur.com/ngYjHxt.png" />**AdventOfCode**</a><br/><br/> <blockquote>`Javascript, NodeJs`</blockquote>  |
+| <a href="https://github.com/eyyMinda/ComputerCraftSolo"><img align="left" alt="ComputerCraft" width="20px" src="https://i.imgur.com/vV8aNRx.png" />**ComputerCraft**</a><br/><br/> <blockquote>`Lua`</blockquote> | <a href="https://github.com/eyyMinda/kandy-task-fe">**Kandy**</a><br/><br/> <blockquote>`HTML, CSS, JS`</blockquote> |  |
+| <a href="https://github.com/eyyMinda/FarmerReplaced"><img align="left" alt="FarmerReplaced" width="20px" src="https://imgur.com/41up72N.png" />**FarmerReplaced**</a><br/><br/><blockquote>`Python`</blockquote> |  |  |
+
+
 ### 🤙 Social
 
 [<a href="https://www.facebook.com/RE.Mindau"><img align="left" alt="Facebook" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" /></a>](a 'FaceBook')
