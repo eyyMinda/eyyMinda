@@ -57,7 +57,7 @@
 | <a href="https://github.com/eyyMinda/ComputerCraftSolo"><img align="left" alt="ComputerCraft" width="20px" src="https://i.imgur.com/vV8aNRx.png" />**ComputerCraft**</a><br/><sub>`Lua`</sub> | <a href="https://github.com/eyyMinda/kandy-task-fe">**Kandy**</a><br/><sub>`HTML, CSS, JS`</sub> |  |
 | <a href="https://github.com/eyyMinda/FarmerReplaced"><img align="left" alt="FarmerReplaced" width="20px" src="https://imgur.com/41up72N.png" />**FarmerReplaced**</a><br/><sub>`Python`</sub> |  |  |
 
-
+#
 ### 🤙 Social
 
 [<a href="https://www.facebook.com/RE.Mindau"><img align="left" alt="Facebook" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" /></a>](a 'FaceBook')
