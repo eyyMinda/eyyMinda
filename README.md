@@ -42,7 +42,7 @@
 ### 📊 Stats
 
 ![eyyMinda's GitHub stats](https://tinyone-readme-stats.vercel.app/api?username=eyyMinda&show_icons=true&hide_title=true&theme=ocean_dark&count_private=true&border_color=b0a0cc)
-![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eyyminda&range=all_time&hide_title=false&layout=compact&langs_count=10&theme=ocean_dark&border_color=b0a0cc)
+![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eyyminda&range=all_time&hide_title=false&layout=compact&langs_count=20&theme=ocean_dark&border_color=b0a0cc)
 
 ![Stalkers Count](https://komarev.com/ghpvc/?username=eyyMinda&color=blueviolet&style=for-the-badge&label=Stalkers+Count)
 ---
