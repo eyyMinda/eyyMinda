@@ -3,7 +3,7 @@
 # 🐱‍👤 [eyyMinda](https://eyyminda.vercel.app/)
   
 **`Junior Front-End Developer`**
-
+ 
 ---
 
 ### 🧰 Languages and Tools
