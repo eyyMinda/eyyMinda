@@ -36,9 +36,11 @@ Open to offers and new opportunities.
 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img align="left" alt="TailWindCSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></a>
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img align="left" alt="MySQL" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></a>
 
-<a href="https://shopify.github.io/liquid/" target="_blank" rel="noreferrer"><img align="left" alt="Shopify" width="40px" style="padding-right:10px;" src="https://img.icons8.com/color/48/null/shopify.png" /></a>
+<a href="https://shopify.github.io/liquid/" target="_blank" rel="noreferrer"><img align="left" alt="Shopify" width="35px" src="https://img.icons8.com/color/48/null/shopify.png" /></a>
+
+<a href="https://www.unrealengine.com/en-US/unreal-engine-5" target="_blank" rel="noreferrer"><img align="left" alt="UnrealEngine" width="35px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-256/free-unreal-engine-2749375-2284765.png?f=webp" /></a>
 </br>
 
 #
