@@ -4,7 +4,7 @@
   
 **`Front-End Developer`**
 
-Currently Working as a shopify theme developer whilst expanding my knowledge in ReactJs, NextJs. Open to offers.
+I'm currently working as a Shopify theme developer and expanding my skills in ReactJS and Next.js. Additionally, I'm working on a game using UE5. Open to new opportunities.
  
 ---
 
