@@ -2,10 +2,10 @@
 
 # 🐱‍👤 [eyyMinda](https://eyyminda.vercel.app/)
   
-**`Front-End Developer`**
+**`Front-End Engineer`**
 
-<!-- Currently expanding my knowledge in ReactJS and NextJS.</br>
-Also, collaborating with a good friend on a game project using UE5.</br> -->
+Currently expanding my knowledge in ReactJS and NextJS.</br>
+Also, collaborating with a good friend on a game project using UE5.</br>
 Open to offers and new opportunities.
  
 ---
