@@ -64,7 +64,9 @@ Open to offers and new opportunities.
 | <a href="https://github.com/eyyMinda/FarmerReplaced"><img align="left" alt="FarmerReplaced" width="20px" src="https://imgur.com/41up72N.png" />**FarmerReplaced**</a><br/><sub>`Python`</sub> |  |  |
 
 #
+
 ### 🤙 Social
 
 [<a href="https://www.facebook.com/RE.Mindau"><img align="left" alt="Facebook" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" /></a>](a 'FaceBook')
 [<a href="https://www.linkedin.com/in/eyyminda/"><img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>](a 'LinkedIn')
+
