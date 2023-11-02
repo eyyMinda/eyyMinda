@@ -4,9 +4,10 @@
   
 **`Front-End Engineer`**
 
+#### Open to offers and new opportunities.
+
 Currently expanding my knowledge in ReactJS and NextJS along wtih Typescript.</br>
 Also, collaborating with a good friend on a game project using UE5.</br>
-Open to offers and new opportunities.
  
 ---
 
