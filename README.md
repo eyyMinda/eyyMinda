@@ -2,7 +2,7 @@
 
 # 🐱‍👤 [eyyMinda](https://eyyminda.vercel.app/)
   
-**`Front-End Engineer`**
+**`Front-End Developer`**
 
 #### Open to offers and new opportunities.
 
