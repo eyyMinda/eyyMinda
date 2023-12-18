@@ -1,8 +1,8 @@
 ![](https://i.giphy.com/media/26tnahvHbOf16adJS/giphy.webp)
 
-# 🐱‍👤 [eyyMinda](https://eyyminda.vercel.app/)
-  
-**`Front-End Developer`**
+### [eyyMinda](https://eyyminda.vercel.app/) ${\color{orange}- \space Software \space Developer}$ 
+
+
 
 #### Open to offers and new opportunities.
 
