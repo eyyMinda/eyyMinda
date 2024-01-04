@@ -69,4 +69,4 @@ Currently expanding my knowledge in ReactJS and NextJS along wtih Typescript.</b
 
 [<a href="https://www.facebook.com/RE.Mindau"><img align="left" alt="Facebook" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" /></a>](a 'FaceBook')
 [<a href="https://www.linkedin.com/in/eyyminda/"><img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>](a 'LinkedIn')
-
+[<a href="https://wakatime.com/@eyyminda"><img align="left" alt="Wakatime" width="30px" style="padding-right:10px;" src="https://i.imgur.com/IrC4Ygh.png" /></a>](a 'Wakatime')
