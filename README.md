@@ -34,7 +34,7 @@ Currently expanding my knowledge in ReactJS and NextJS along wtih Typescript.</b
 
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img align="left" alt="TailWindCSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img align="left" alt="TailWindCSS" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-512x307-1v56l8ed.png" /></a>
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img align="left" alt="MySQL" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></a>
 
