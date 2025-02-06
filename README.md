@@ -12,35 +12,37 @@ Currently expanding my knowledge in ReactJS and NextJS along wtih Typescript.</b
 
 ### 🧰 Languages and Tools
 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" title="Visual Studio Code" rel="noreferrer"><img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
+<a href="https://git-scm.com/" target="_blank" title="Sanity" rel="Git"><img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" title="Typescript" rel="noreferrer"><img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></a>
+<a href="https://www.w3.org/html/" target="_blank" title="HTML" rel="noreferrer"><img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></a>
 
-<a href="https://www.w3.org/css/" target="_blank" rel="noreferrer"><img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /></a>
+<a href="https://www.w3.org/css/" target="_blank" title="CSS" rel="noreferrer"><img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /></a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="Javascript" rel="noreferrer"><img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a>
 
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
+<a href="https://nodejs.org/en/" target="_blank" title="NodeJS" title="Sanity" rel="noreferrer"><img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
+<a href="https://react.dev/" target="_blank" title="React" rel="noreferrer"><img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img align="left" alt="NextJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></a>
+<a href="https://nextjs.org/" target="_blank" title="NextJS" rel="noreferrer"><img align="left" alt="NextJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></a>
 
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img align="left" alt="SASS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></a>
+<a href="https://sass-lang.com/" target="_blank" title="Sass" rel="noreferrer"><img align="left" alt="SASS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></a>
 
-<a href="https://github.com/" target="_blank" rel="noreferrer"><img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
+<a href="https://github.com/" target="_blank" title="Github" rel="noreferrer"><img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img align="left" alt="TailWindCSS" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-512x307-1v56l8ed.png" /></a>
+<a href="https://tailwindcss.com/" target="_blank" title="TailwindCSS" rel="noreferrer"><img align="left" alt="TailWindCSS" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-512x307-1v56l8ed.png" /></a>
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img align="left" alt="MySQL" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></a>
+<a href="https://www.mysql.com/" target="_blank" title="MySQL" rel="noreferrer"><img align="left" alt="MySQL" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></a>
 
-<a href="https://shopify.github.io/liquid/" target="_blank" rel="noreferrer"><img align="left" alt="Shopify" width="35px" src="https://img.icons8.com/color/48/null/shopify.png" /></a>
+<a href="https://shopify.github.io/liquid/" target="_blank" title="Shopify Liquid" rel="noreferrer"><img align="left" alt="Shopify" width="35px" src="https://img.icons8.com/color/48/null/shopify.png" /></a>
 
-<a href="https://www.unrealengine.com/en-US/unreal-engine-5" target="_blank" rel="noreferrer"><img align="left" alt="UnrealEngine" width="35px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-256/free-unreal-engine-2749375-2284765.png?f=webp" /></a>
+<a href="https://www.sanity.io/" target="_blank" title="Sanity" rel="noreferrer"><img align="left" alt="Sanity" width="30px" style="padding-right:10px;" src="https://icon.icepanel.io/Technology/svg/Sanity.svg" /></a>
+
+<a href="https://www.unrealengine.com/en-US/unreal-engine-5" target="_blank" title="UnrealEngine" rel="noreferrer"><img align="left" alt="UnrealEngine" width="35px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-256/free-unreal-engine-2749375-2284765.png?f=webp" /></a>
 </br>
 
 #
