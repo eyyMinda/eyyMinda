@@ -3,7 +3,7 @@
 
 ### [eyyMinda](https://eyyminda.vercel.app/) ${\color{orange}- \space Software \space Developer}$  
 
-Hey there! I’m a front-end developer constantly pushing myself to be **faster, more efficient, and more reliable**. I thrive on learning, improving, and finding smarter ways to build things.  
+Hey there! I’m a dev, constantly pushing myself to be **faster, more efficient, and more reliable**. I thrive on learning, improving, and finding smarter ways to build things.  
 
 My main playground is **Shopify, React, and Next.js**, where I create and optimize e-commerce stores, migrate projects to Shopify, and maintain React/Next.js repositories with TypeScript. But beyond just coding, I’m always looking for ways to **write cleaner code, improve performance, and solve problems better** than I did yesterday.  
 
