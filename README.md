@@ -61,7 +61,7 @@ Let’s connect — I'm always up for a challenge!
 
 ![eyyMinda's GitHub stats](https://tinyone-readme-stats.vercel.app/api?username=eyyMinda&show_icons=true&hide_title=true&theme=ocean_dark&count_private=true&border_color=b0a0cc)
 ![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eyyminda&range=all_time&hide_title=false&layout=compact&langs_count=20&theme=ocean_dark&border_color=b0a0cc)
-<p align="center">Asana Tasks Completed per Month Record <strong>2025/04</strong> <br>Average task completion time: <strong>3.5h</strong>. Longest task: <strong>4 days</strong>. Shortest task: <strong>10 minutes</strong>.</p>
+<p align="center">Asana Tasks Completed per Month Record <strong>2025/04</strong> <br>Average task completion time: <strong>4.4h</strong>. Longest task: <strong>4 days</strong>. Shortest task: <strong>10 minutes</strong>.</p>
 <p align="center">
   <img width="460" height="auto" src="https://i.imgur.com/YmWnHJL.png">
 </p>
