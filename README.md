@@ -40,7 +40,7 @@ Let’s connect — I'm always up for a challenge!
 
 <a href="https://github.com/" target="_blank" title="Github" rel="noreferrer"><img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
 
-<a href="https://tailwindcss.com/" target="_blank" title="TailwindCSS" rel="noreferrer"><img align="left" alt="TailWindCSS" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-512x307-1v56l8ed.png" /></a>
+<a href="https://tailwindcss.com/" target="_blank" title="TailwindCSS" rel="noreferrer"><img align="left" alt="TailWindCSS" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" /></a>
 
 <a href="https://www.prisma.io/" target="_blank" title="Prisma" rel="noreferrer"><img align="left" alt="Prisma" width="30px" style="padding-right:10px;" src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png" /></a>
 
