@@ -13,7 +13,7 @@ My main playground is **Shopify, React, and Next.js**, where I create and optimi
 Let’s connect — I'm always up for a challenge!  
 
  
----
+--- 
 
 ### 🧰 Languages and Tools
 
