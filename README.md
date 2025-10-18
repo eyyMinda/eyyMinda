@@ -7,8 +7,8 @@ Hey there! I’m a dev, constantly pushing myself to be **faster, more efficient
 
 My main playground is **Shopify, React, and Next.js**, where I create and optimize e-commerce stores, migrate projects to Shopify, and maintain React/Next.js repositories with TypeScript. But beyond just coding, I’m always looking for ways to **write cleaner code, improve performance, and solve problems better** than I did yesterday.  
 
-🚀 **Currently leveling up in:** Next.js 14, advanced TypeScript, and e-commerce optimizations.  
-💡 **Always striving for:** Faster workflows, better solutions, and becoming the best dev I can be.  
+🚀 **Currently leveling up in:** Next.js 15, advanced TypeScript, and e-commerce optimizations.  
+💡 **Always striving for:** Faster workflows, better solutions, smoothing collaborations and becoming the best dev I can be.  
 
 Let’s connect — I'm always up for a challenge!  
 
