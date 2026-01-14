@@ -17,6 +17,8 @@ Help contribute and offer me a challenge, let's build the best superhuman in the
 
 <a href="https://code.visualstudio.com/" target="_blank" title="Visual Studio Code" rel="noreferrer"><img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
 
+<a href="https://cursor.sh/" target="_blank" title="Cursor" rel="noreferrer"><img align="left" alt="Cursor" width="30px" style="padding-right:10px;" src="https://cursor.sh/favicon.ico" /></a>
+
 <a href="https://git-scm.com/" target="_blank" title="Sanity" rel="Git"><img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
 
 <a href="https://www.typescriptlang.org/" target="_blank" title="Typescript" rel="noreferrer"><img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /></a>
@@ -51,6 +53,12 @@ Help contribute and offer me a challenge, let's build the best superhuman in the
 <a href="https://www.sanity.io/" target="_blank" title="Sanity" rel="noreferrer"><img align="left" alt="Sanity" width="30px" style="padding-right:10px;" src="https://icon.icepanel.io/Technology/svg/Sanity.svg" /></a>
 
 <a href="https://www.unrealengine.com/en-US/unreal-engine-5" target="_blank" title="UnrealEngine" rel="noreferrer"><img align="left" alt="UnrealEngine" width="35px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-256/free-unreal-engine-2749375-2284765.png?f=webp" /></a>
+
+<a href="https://www.anthropic.com/claude" target="_blank" title="Claude AI - for building shopping AI assistant apps" rel="noreferrer"><img align="left" alt="Claude AI" width="30px" style="padding-right:10px;" src="https://www.anthropic.com/favicon.ico" /></a>
+
+<a href="https://remix.run/" target="_blank" title="Remix" rel="noreferrer"><img align="left" alt="Remix" width="30px" style="padding-right:10px;" src="https://i.imgur.com/xpEOfu8.png" /></a>
+
+<a href="https://www.embark-studios.com/games/arc-raiders" target="_blank" title="Arc Raiders - to keep me human" rel="noreferrer"><img align="left" alt="Arc Raiders" width="30px" style="padding-right:10px;" src="https://www.embark-studios.com/favicon.ico" /></a>
 </br>
 
 #
