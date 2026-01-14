@@ -1,19 +1,17 @@
 ![](https://i.giphy.com/media/26tnahvHbOf16adJS/giphy.webp)
 
+### [eyyMinda](https://eyyminda.vercel.app/) ${\color{orange}- \space Software \space Developer}$
 
-### [eyyMinda](https://eyyminda.vercel.app/) ${\color{orange}- \space Software \space Developer}$  
+Hey there! I'm a dev who's **obsessed with speed, efficiency, and reliability**. I don't just code—I optimize, refactor, and level up faster than my code compiles.
 
-Hey there! I’m a dev, constantly pushing myself to be **faster, more efficient, and more reliable**. I thrive on learning, improving, and finding smarter ways to build things.  
+My main playground is **Shopify, React, and Next.js**, where I build e-commerce stores, migrate projects to Shopify, and maintain React/Next.js repos with TypeScript. But here's the thing: I'm not just writing code—I'm **constantly rewriting my own playbook** to write cleaner code, boost performance, and solve problems smarter than I did yesterday.
 
-My main playground is **Shopify, React, and Next.js**, where I create and optimize e-commerce stores, migrate projects to Shopify, and maintain React/Next.js repositories with TypeScript. But beyond just coding, I’m always looking for ways to **write cleaner code, improve performance, and solve problems better** than I did yesterday.  
+🚀 **Currently leveling up in:** Mastering 3 jobs workload, upgrading myself with AI, destroying the market with shopify APP development and discovering e-commerce secrets.  
+💡 **Always striving for:** Faster workflows, better solutions, smoother collaborations and becoming the best dev I can be.
 
-🚀 **Currently leveling up in:** Next.js 15, advanced TypeScript, and e-commerce optimizations.  
-💡 **Always striving for:** Faster workflows, better solutions, smoother collaborations and becoming the best dev I can be.  
+Help contribute and offer me a challenge, let's build the best superhuman in the field!
 
-Let’s connect — I'm always up for a challenge!  
-
- 
---- 
+---
 
 ### 🧰 Languages and Tools
 
@@ -61,28 +59,26 @@ Let’s connect — I'm always up for a challenge!
 
 ![eyyMinda's GitHub stats](https://tinyone-readme-stats.vercel.app/api?username=eyyMinda&show_icons=true&hide_title=true&theme=ocean_dark&count_private=true&border_color=b0a0cc)
 ![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eyyminda&range=all_time&hide_title=false&layout=compact&langs_count=20&theme=ocean_dark&border_color=b0a0cc)
+
 <p align="center">Asana Tasks Completed per Month Record <strong>2025/04</strong> <br>Average task completion time: <strong>4.4h</strong>. Longest task: <strong>4 days</strong>. Shortest task: <strong>10 minutes</strong>.</p>
 <p align="center">
   <img width="460" height="auto" src="https://i.imgur.com/ESCOsAw.png">
 </p>
 
-![Stalkers Count](https://komarev.com/ghpvc/?username=eyyMinda&color=blueviolet&style=for-the-badge&label=Stalkers+Count)
----
+## ![Stalkers Count](https://komarev.com/ghpvc/?username=eyyMinda&color=blueviolet&style=for-the-badge&label=Stalkers+Count)
 
 ### 📚 Repositories
 
-
-
-| Coding Games | Hiring Tasks | Challenges | Game Dev |
-| :--- | :--- | :--- | :--- |
-| <a href="https://github.com/eyyMinda/BitBurner"><img align="left" alt="BitBurner" width="20px" src="https://imgur.com/NQ4rFoa.png" />**BitBurner**</a><br/><sub>`Netscript, Javascript`</sub> | <a href="https://github.com/eyyMinda/ratepunk-task-fe">**RatePunk**</a><br/><sub>`React, NextJs, SCSS`</sub> | <a href="https://github.com/eyyMinda/AdventOfCode"><img align="left" alt="AdventOfCode" width="20px" src="https://imgur.com/ngYjHxt.png" />**AdventOfCode**</a><br/><sub>`Javascript, NodeJs`</sub>  | <a href="https://github.com/eyyMinda/GameJamFPS"><img align="left" alt="GameJamFPS" width="20px" src="https://i.imgur.com/Uv7guJA.png" />**GameJamFPS**</a><br/><sub>`Godot, GDScript, Blender`</sub> |
-| <a href="https://github.com/eyyMinda/ComputerCraftSolo"><img align="left" alt="ComputerCraft" width="20px" src="https://imgur.com/vV8aNRx.png" />**ComputerCraft**</a><br/><sub>`Lua`</sub> | <a href="https://github.com/eyyMinda/kandy-task-fe">**Kandy**</a><br/><sub>`HTML, CSS, JS`</sub> | <a href="https://github.com/eyyMinda/KataVault"><img align="left" alt="KataVault" width="20px" src="https://docs.codewars.com/logo.svg" />**KataVault**</a><br/><sub>`Javascript, Typescript, Jest`</sub> | |
-| <a href="https://github.com/eyyMinda/FarmerReplaced"><img align="left" alt="FarmerReplaced" width="20px" src="https://imgur.com/41up72N.png" />**FarmerReplaced**</a><br/><sub>`Python`</sub> |  |  | |
+| Coding Games                                                                                                                                                                                  | Hiring Tasks                                                                                                 | Challenges                                                                                                                                                                                                | Game Dev                                                                                                                                                                                              |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <a href="https://github.com/eyyMinda/BitBurner"><img align="left" alt="BitBurner" width="20px" src="https://imgur.com/NQ4rFoa.png" />**BitBurner**</a><br/><sub>`Netscript, Javascript`</sub> | <a href="https://github.com/eyyMinda/ratepunk-task-fe">**RatePunk**</a><br/><sub>`React, NextJs, SCSS`</sub> | <a href="https://github.com/eyyMinda/AdventOfCode"><img align="left" alt="AdventOfCode" width="20px" src="https://imgur.com/ngYjHxt.png" />**AdventOfCode**</a><br/><sub>`Javascript, NodeJs`</sub>       | <a href="https://github.com/eyyMinda/GameJamFPS"><img align="left" alt="GameJamFPS" width="20px" src="https://i.imgur.com/Uv7guJA.png" />**GameJamFPS**</a><br/><sub>`Godot, GDScript, Blender`</sub> |
+| <a href="https://github.com/eyyMinda/ComputerCraftSolo"><img align="left" alt="ComputerCraft" width="20px" src="https://imgur.com/vV8aNRx.png" />**ComputerCraft**</a><br/><sub>`Lua`</sub>   | <a href="https://github.com/eyyMinda/kandy-task-fe">**Kandy**</a><br/><sub>`HTML, CSS, JS`</sub>             | <a href="https://github.com/eyyMinda/KataVault"><img align="left" alt="KataVault" width="20px" src="https://docs.codewars.com/logo.svg" />**KataVault**</a><br/><sub>`Javascript, Typescript, Jest`</sub> |                                                                                                                                                                                                       |
+| <a href="https://github.com/eyyMinda/FarmerReplaced"><img align="left" alt="FarmerReplaced" width="20px" src="https://imgur.com/41up72N.png" />**FarmerReplaced**</a><br/><sub>`Python`</sub> |                                                                                                              |                                                                                                                                                                                                           |                                                                                                                                                                                                       |
 
 #
 
 ### 🤙 Social
 
-[<a href="https://www.facebook.com/RE.Mindau"><img align="left" alt="Facebook" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" /></a>](a 'FaceBook')
-[<a href="https://www.linkedin.com/in/eyyminda/"><img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>](a 'LinkedIn')
-[<a href="https://wakatime.com/@eyyminda"><img align="left" alt="Wakatime" width="30px" style="padding-right:10px;" src="https://i.imgur.com/IrC4Ygh.png" /></a>](a 'Wakatime')
+[<a href="https://www.facebook.com/RE.Mindau"><img align="left" alt="Facebook" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" /></a>](a "FaceBook")
+[<a href="https://www.linkedin.com/in/eyyminda/"><img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>](a "LinkedIn")
+[<a href="https://wakatime.com/@eyyminda"><img align="left" alt="Wakatime" width="30px" style="padding-right:10px;" src="https://i.imgur.com/IrC4Ygh.png" /></a>](a "Wakatime")
