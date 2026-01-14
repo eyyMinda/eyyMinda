@@ -4,7 +4,7 @@
 
 Hey there! I'm a dev who's **obsessed with speed, efficiency, and reliability**. I don't just code—I optimize, refactor, and level up faster than my code compiles.
 
-My main playground is **Shopify, React, and Next.js**, where I build e-commerce stores, migrate projects to Shopify, and maintain React/Next.js repos with TypeScript. But here's the thing: I'm not just writing code—I'm **constantly rewriting my own playbook** to write cleaner code, boost performance, and solve problems smarter than I did yesterday.
+My main playground is **Shopify, React, and Next.js**, where I build e-commerce stores, develop Shopify apps (the ones merchants actually want), migrate projects to Shopify, and maintain React/Next.js repos with TypeScript. But here's the thing: I'm not just writing code — I'm **constantly rewriting my own playbook** to write cleaner code, boost performance, and solve problems smarter than I did yesterday. I also build CLIs and scripts that automate tedious tasks and launch entire workflows with one command (because clicking 5 times is 4 times too many).
 
 🚀 **Currently leveling up in:** Mastering 3 jobs workload, upgrading myself with AI, destroying the market with shopify APP development and discovering e-commerce secrets.  
 💡 **Always striving for:** Faster workflows, better solutions, smoother collaborations and becoming the best dev I can be.
