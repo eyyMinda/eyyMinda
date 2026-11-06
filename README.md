@@ -64,9 +64,8 @@ Help contribute and offer me a challenge, let's build the best superhuman in the
 #
 
 ### 📊 Stats
-
-![eyyMinda's GitHub stats](https://tinyone-readme-stats.vercel.app/api?username=eyyMinda&show_icons=true&hide_title=true&theme=ocean_dark&count_private=true&border_color=b0a0cc)
-![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eyyminda&range=all_time&hide_title=false&layout=compact&langs_count=20&theme=ocean_dark&border_color=b0a0cc)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=eyyMinda&custom_title=Github%20Stats&show_icons=true&include_all_commits=true&theme=ocean_dark)](https://github-stats-extended.vercel.app/api?username=eyyMinda&custom_title=Github%20Stats&show_icons=true&include_all_commits=true&theme=ocean_dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=eyyMinda&layout=compact&langs_count=16&theme=ocean_dark)](https://wakatime.com/@eyyMinda)
 
 <p align="center">Asana Tasks Completed per Month Record <strong>2025/04</strong> <br>Average task completion time: <strong>4.4h</strong>. Longest task: <strong>4 days</strong>. Shortest task: <strong>10 minutes</strong>.</p>
 <p align="center">
