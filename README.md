@@ -44,13 +44,13 @@ Help contribute and offer me a challenge, let's build the best superhuman in the
   <a href="https://github.com/eyyMinda">
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=eyyMinda&custom_title=Github%20Stats&show_icons=true&include_all_commits=true&theme=default&hide_border=true" />
-      <img height="170" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=eyyMinda&custom_title=Github%20Stats&show_icons=true&include_all_commits=true&theme=ocean_dark&hide_border=true" />
+      <img height="168" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=eyyMinda&custom_title=Github%20Stats&show_icons=true&include_all_commits=true&theme=ocean_dark&hide_border=true" />
     </picture>
   </a>
   <a href="https://wakatime.com/@eyyMinda">
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/wakatime?username=eyyMinda&layout=compact&langs_count=8&theme=default&hide_border=true" />
-      <img height="170" alt="Wakatime Stats" src="https://github-stats-extended.vercel.app/api/wakatime?username=eyyMinda&layout=compact&langs_count=8&theme=ocean_dark&hide_border=true" />
+      <img height="168" alt="Wakatime Stats" src="https://github-stats-extended.vercel.app/api/wakatime?username=eyyMinda&layout=compact&langs_count=8&theme=ocean_dark&hide_border=true" />
     </picture>
   </a>
 </p>
